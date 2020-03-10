@@ -1,5 +1,6 @@
 [build]
-  publish = "publish/"
+  base = "subdirectory/"
+  publish = "subdirectory/publish/"
 
 [[redirects]]
   from = "/index2.html"
